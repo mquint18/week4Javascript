@@ -2,3 +2,18 @@ body {
     background-color: green;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.submit {
+    color: red;
+    background-color: black;
+}
+
+.donot {
+    color: red;
+    text-shadow: 4px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 2rem;
+
+}
